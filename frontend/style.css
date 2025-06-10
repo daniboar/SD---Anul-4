@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(135deg, #f2f2f2, #cccccc);
+}
+
+#actionBtn {
+  margin-top: 20px;
+}
+
+.hidden-message {
+  margin-top: 20px;
+  color: #333;
+  font-size: 1.5rem;
+  display: none;
+}
